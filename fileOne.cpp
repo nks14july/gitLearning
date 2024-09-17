@@ -6,6 +6,7 @@ using std::endl;
 
 int main()
 {
+    cout << "Another cout" << endl;
     cout << "Hello Nitin!" << endl;
     return 0;
 }
