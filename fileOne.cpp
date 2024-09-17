@@ -6,7 +6,7 @@ using std::endl;
 
 int main()
 {
-    cout << "Adding once again" << endl;
+    cout << "Changes in cout" << endl;
     cout << "Hello Nitin!" << endl;
     return 0;
 }
